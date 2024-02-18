@@ -1,4 +1,4 @@
-## Login Logout System (PHP,MYSQL) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## Login Logout System [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 Hey Guys , This is a Simple Login & Logout Project Made With Php + Mysql Which protects your website from SQL Injection Too.
 
 
